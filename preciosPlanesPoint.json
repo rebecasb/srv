@@ -1,0 +1,114 @@
+[
+ {
+   "plan": "Plan A",
+   "nivel": "Label 200",
+   "preciomensual": "$6.592",
+   "precioanual": "$71.192",
+   "preciobienal": "$126.563"
+ },
+ {
+   "plan": "Plan A",
+   "nivel": "Label 500",
+   "preciomensual": "$14.330",
+   "precioanual": "$154.764",
+   "preciobienal": "$275.136"
+ },
+ {
+   "plan": "Plan A",
+   "nivel": "Label 1.000",
+   "preciomensual": "$22.928",
+   "precioanual": "$247.623",
+   "preciobienal": "$440.218"
+ },
+ {
+   "plan": "Plan A",
+   "nivel": "Label 2.000",
+   "preciomensual": "$28.660",
+   "precioanual": "$309.528",
+   "preciobienal": "$550.273"
+ },
+ {
+   "plan": "Plan B",
+   "nivel": "Label 200",
+   "preciomensual": "$22.928",
+   "precioanual": "$247.623",
+   "preciobienal": "$440.218"
+ },
+ {
+   "plan": "Plan B",
+   "nivel": "Label 500",
+   "preciomensual": "$28.660",
+   "precioanual": "$309.528",
+   "preciobienal": "$550.273"
+ },
+ {
+   "plan": "Plan B",
+   "nivel": "Label 1.000",
+   "preciomensual": "$34.392",
+   "precioanual": "$371.434",
+   "preciobienal": "$660.327"
+ },
+ {
+   "plan": "Plan B",
+   "nivel": "Label 2.000",
+   "preciomensual": "$57.320",
+   "precioanual": "$619.057",
+   "preciobienal": "$1.100.545"
+ },
+ {
+   "plan": "Plan C",
+   "nivel": "Label 200",
+   "preciomensual": "$65.918",
+   "precioanual": "$771.915",
+   "preciobienal": "$1.265.627"
+ },
+ {
+   "plan": "Plan C",
+   "nivel": "Label 500",
+   "preciomensual": "$91.712",
+   "precioanual": "$990.491",
+   "preciobienal": "$1.760.872"
+ },
+ {
+   "plan": "Plan C",
+   "nivel": "Label 1.000",
+   "preciomensual": "$120.372",
+   "precioanual": "$1.300.019",
+   "preciobienal": "$2.311.145"
+ },
+ {
+   "plan": "Plan C",
+   "nivel": "Label 2.000",
+   "preciomensual": "$137.568",
+   "precioanual": "$1.485.736",
+   "preciobienal": "$2.641.308"
+ },
+ {
+   "plan": "Plan D",
+   "nivel": "Label 200",
+   "preciomensual": "$143.300",
+   "precioanual": "$1.547.642",
+   "preciobienal": "$2.641.308"
+ },
+ {
+   "plan": "Plan D",
+   "nivel": "Label 500",
+   "preciomensual": "$171.960",
+   "precioanual": "$1.857.170",
+   "preciobienal": "$3.301.635"
+ },
+ {
+   "plan": "Plan D",
+   "nivel": "Label 1.000",
+   "preciomensual": "$200.620",
+   "precioanual": "$2.166.698",
+   "preciobienal": "$3.851.908"
+ },
+ {
+   "plan": "Plan D",
+   "nivel": "Label 2.000",
+   "preciomensual": "$229.280",
+   "precioanual": "$2.476.227",
+   "preciobienal": "$4.402.181"
+ }
+]
